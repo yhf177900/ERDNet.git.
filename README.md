@@ -1,2 +1,2 @@
 # ERDNet.git.
-Thesis network ERDNet network model
+Paper ERDNet network modeling
